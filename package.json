@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "jupyterlab_tab2title",
+  "version": "0.0.1",
+  "description": "Add the name of your active notebook tab to the browser title / html document title.",
+  "author": "Jacob Baxter",
+  "main": "lib/plugin.js",
+  "keywords": [
+    "jupyter",
+    "jupyterlab",
+    "jupyterlab-extension"
+  ],
+  "jupyterlab": {
+    "extension": true
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
